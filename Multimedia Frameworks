@@ -1,0 +1,35 @@
+*****Audio Rendering:
+
+android : OpenSL,AAudio,soundpool,AudioTrack,Oboe
+
+apple : CoreAudio - AudioUnits
+
+windows : WASAPI
+
+
+
+******Video Codec and players:
+
+openSrc : FFMpeg,GStreamer
+
+android : MediaCodec,MediaExtractor,openSrc
+
+apple:
+ objc : AVFoundation(AVAssetReader,AVPlayer)
+ c : CoreMedia,VideoToolbox
+
+
+
+*****Graphics:
+
+android : OpenGL,Vulkan
+
+apple : moltenVK,Metal
+
+Windows : android + DirectX
+
+
+
+
+
+
