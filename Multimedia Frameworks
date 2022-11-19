@@ -18,6 +18,8 @@ android : MediaCodec,MediaExtractor,openSrc
 apple:
  objc : AVFoundation(AVAssetReader,AVPlayer)
  c : CoreMedia,VideoToolbox
+ 
+ https://dev.to/video/working-with-videotoolbox-for-more-control-over-video-encoding-and-decoding-6n1
 
 
 
