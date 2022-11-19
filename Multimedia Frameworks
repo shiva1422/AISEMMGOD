@@ -31,5 +31,10 @@ Windows : android + DirectX
 
 
 
+*********MIDI ,DAW
+openSrc : soundfont2,fluidsynth(software synth),sysnthesia(pianogame)
+
+android : MIDI Manager,AMIDI(NDK)
+
 
 
