@@ -13,6 +13,7 @@ windows : WASAPI
 openSrc : FFMpeg,GStreamer
 
 android : MediaCodec,MediaExtractor,openSrc
+   //TUnneling?
 
 apple:
  objc : AVFoundation(AVAssetReader,AVPlayer)
