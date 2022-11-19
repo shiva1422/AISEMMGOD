@@ -33,7 +33,7 @@ Windows : android + DirectX
 
 
 *********MIDI ,DAW
-openSrc : soundfont2,fluidsynth(software synth),sysnthesia(pianogame)
+openSrc : soundfont2,fluidsynth(software synth),sysnthesia(pianogame),LMMS
 
 android : MIDI Manager,AMIDI(NDK)
 
