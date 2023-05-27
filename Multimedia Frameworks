@@ -38,6 +38,8 @@ openSrc : soundfont2,fluidsynth(software synth),sysnthesia(pianogame),LMMS
 
 android : MIDI Manager,AMIDI(NDK)
 
+apple : Core MIDI
+
 
 
 Books:
