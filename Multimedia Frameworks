@@ -43,6 +43,10 @@ android : MIDI Manager,AMIDI(NDK)
 apple : Core MIDI
 
 
+*********Text:
+
+FreeType,CoreText
+
 
 Books:
 the audio programming book
