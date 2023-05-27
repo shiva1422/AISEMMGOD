@@ -31,6 +31,8 @@ apple : moltenVK,Metal
 
 Windows : android + DirectX
 
+compute : all above + openCL ,Cuda.
+
 
 
 *********MIDI ,DAW
