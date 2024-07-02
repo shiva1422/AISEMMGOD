@@ -1,9 +1,9 @@
 
-<h1>AISEMMGOD.COM</h1>
+<h1 style="text-align:center;">AISEMMGOD.COM</h1>
 
-<h3> References/Guides to Science, Technology, Engineering and Math related to </h3>
+<h3 style="text-align:center;"> References/Guides to Science, Technology, Engineering and Math related to </h3>
 
-<ul>
+<ul style="text-align:center;">
 <li> Multimedia</li>
 <li> Game/Graphics</li>
 <li> Optics</li>
